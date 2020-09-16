@@ -174,7 +174,6 @@ body{
 
 .image2 img{
 	width: 350px;
-	margin-top: 110px;
 	margin-bottom: 60px;
 }
 
@@ -229,8 +228,7 @@ body{
 .third{
 	background-color: #24283D;
 	color: white;
-	min-height: 385vh;
-	padding: 20px;
+	padding: 110px 20px;
 }
 
 .desc2::after{
