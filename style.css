@@ -4,6 +4,12 @@
 	box-sizing: border-box;
 }
 
+body{
+	clear: both;
+	display: table;
+	content: '';
+}
+
 .first{
 	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('img/a1.jpg');
 	background-size: cover;
