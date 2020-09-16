@@ -130,8 +130,7 @@ body{
 .second{
 	background-color: #1F2233;
 	color: white;
-	padding: 0 20px;
-	min-height: 250vh;
+	padding: 110px 20px;
 }
 
 .second::after{
