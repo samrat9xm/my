@@ -167,6 +167,7 @@
 }
 
 .image2 img{
+	display:block;
 	width: 350px;
 	margin-bottom: 60px;
 }
