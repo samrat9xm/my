@@ -125,7 +125,7 @@
 	background-color: #1F2233;
 	color: white;
 	padding: 0 20px;
-	min-height: 300vh;
+	min-height: 250vh;
 }
 
 .second::after{
@@ -168,7 +168,7 @@
 }
 
 .image2 img{
-	width: 400px;
+	width: 350px;
 	margin-top: 110px;
 	margin-bottom: 60px;
 }
